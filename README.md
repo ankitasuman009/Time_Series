@@ -2,7 +2,7 @@
 
 A time series is any data set where the values are measured at different points in time.
 
-Dateset of daily time series of Open Power System Data (OPSD) for Germany.
+Dataset of daily time series of Open Power System Data (OPSD) for Germany https://github.com/ankitasuman009/Time_Series/blob/main/opsd_germany_daily.txt
 
 ### Time series DataFrame
 
